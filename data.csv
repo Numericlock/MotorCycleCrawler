@@ -1,0 +1,283 @@
+td,th,url
+250T LA CUSTOM,タイプグレード名,https://www.bikebros.co.jp/catalog/1/1_1/
+マイナーチェンジ,モデルチェンジ区分,https://www.bikebros.co.jp/catalog/1/1_1/
+MC07,型式,https://www.bikebros.co.jp/catalog/1/1_1/
+1984,発売年,https://www.bikebros.co.jp/catalog/1/1_1/
+4,発売月,https://www.bikebros.co.jp/catalog/1/1_1/
+国内向けモデル,仕向け・仕様,https://www.bikebros.co.jp/catalog/1/1_1/
+2055,全長 (mm),https://www.bikebros.co.jp/catalog/1/1_1/
+810,全幅 (mm),https://www.bikebros.co.jp/catalog/1/1_1/
+1175,全高 (mm),https://www.bikebros.co.jp/catalog/1/1_1/
+1345,ホイールベース (mm),https://www.bikebros.co.jp/catalog/1/1_1/
+165,最低地上高（ｍｍ）,https://www.bikebros.co.jp/catalog/1/1_1/
+730,シート高 (mm),https://www.bikebros.co.jp/catalog/1/1_1/
+133,乾燥重量 (kg),https://www.bikebros.co.jp/catalog/1/1_1/
+144,車両重量 (kg),https://www.bikebros.co.jp/catalog/1/1_1/
+2.1,最小回転半径（ｍ）,https://www.bikebros.co.jp/catalog/1/1_1/
+2,乗車定員（名）,https://www.bikebros.co.jp/catalog/1/1_1/
+58.0,燃料消費率（1）(km/L),https://www.bikebros.co.jp/catalog/1/1_1/
+50km/h走行時,測定基準（1）,https://www.bikebros.co.jp/catalog/1/1_1/
+MC06E,原動機型式,https://www.bikebros.co.jp/catalog/1/1_1/
+4ストローク,原動機種類,https://www.bikebros.co.jp/catalog/1/1_1/
+2,気筒数,https://www.bikebros.co.jp/catalog/1/1_1/
+並列（直列）,シリンダ配列,https://www.bikebros.co.jp/catalog/1/1_1/
+空冷,冷却方式,https://www.bikebros.co.jp/catalog/1/1_1/
+233,排気量 (cc),https://www.bikebros.co.jp/catalog/1/1_1/
+OHC（SOHC）,カム・バルブ駆動方式,https://www.bikebros.co.jp/catalog/1/1_1/
+2,気筒あたりバルブ数,https://www.bikebros.co.jp/catalog/1/1_1/
+53,内径（シリンダーボア）(mm),https://www.bikebros.co.jp/catalog/1/1_1/
+53,行程（ピストンストローク）(mm),https://www.bikebros.co.jp/catalog/1/1_1/
+9.4,圧縮比（:1）,https://www.bikebros.co.jp/catalog/1/1_1/
+21,最高出力（PS）,https://www.bikebros.co.jp/catalog/1/1_1/
+8500,最高出力回転数（rpm）,https://www.bikebros.co.jp/catalog/1/1_1/
+2,最大トルク（kgf･m）,https://www.bikebros.co.jp/catalog/1/1_1/
+4000,最大トルク回転数（rpm）,https://www.bikebros.co.jp/catalog/1/1_1/
+キャブレター,燃料供給方式,https://www.bikebros.co.jp/catalog/1/1_1/
+VB16,燃料供給装置形式,https://www.bikebros.co.jp/catalog/1/1_1/
+12,燃料タンク容量 (L),https://www.bikebros.co.jp/catalog/1/1_1/
+1.5,燃料タンク・リザーブ容量 (L),https://www.bikebros.co.jp/catalog/1/1_1/
+レギュラーガソリン,燃料（種類）,https://www.bikebros.co.jp/catalog/1/1_1/
+696.0,満タン時航続距離（概算・参考値）,https://www.bikebros.co.jp/catalog/1/1_1/
+セルフスターター式,エンジン始動方式,https://www.bikebros.co.jp/catalog/1/1_1/
+C.D.I.式,点火装置,https://www.bikebros.co.jp/catalog/1/1_1/
+C7HSA,点火プラグ標準搭載・型式,https://www.bikebros.co.jp/catalog/1/1_1/
+2,点火プラグ必要本数・合計,https://www.bikebros.co.jp/catalog/1/1_1/
+YB9-B,搭載バッテリー・型式,https://www.bikebros.co.jp/catalog/1/1_1/
+12V-9Ah,バッテリー容量,https://www.bikebros.co.jp/catalog/1/1_1/
+ウェットサンプ式,エンジン潤滑方式,https://www.bikebros.co.jp/catalog/1/1_1/
+1.8,エンジンオイル容量※全容量 (L),https://www.bikebros.co.jp/catalog/1/1_1/
+1.6,エンジンオイル量（オイル交換時） (L),https://www.bikebros.co.jp/catalog/1/1_1/
+10W-30,推奨エンジンオイル（SAE粘度）,https://www.bikebros.co.jp/catalog/1/1_1/
+湿式・多板,クラッチ形式,https://www.bikebros.co.jp/catalog/1/1_1/
+リターン式・5段変速,変速機形式,https://www.bikebros.co.jp/catalog/1/1_1/
+フットシフト,変速機・操作方式,https://www.bikebros.co.jp/catalog/1/1_1/
+3.632,1次減速比,https://www.bikebros.co.jp/catalog/1/1_1/
+2.142,2次減速比,https://www.bikebros.co.jp/catalog/1/1_1/
+1速 2.845/2速 1.776/3速 1.332/4速 1.082/5速 0.912,変速比,https://www.bikebros.co.jp/catalog/1/1_1/
+チェーン,動力伝達方式,https://www.bikebros.co.jp/catalog/1/1_1/
+ダイヤモンド,フレーム型式,https://www.bikebros.co.jp/catalog/1/1_1/
+29°20′,キャスター角,https://www.bikebros.co.jp/catalog/1/1_1/
+112,トレール量 (mm),https://www.bikebros.co.jp/catalog/1/1_1/
+油圧式ディスク,ブレーキ形式（前）,https://www.bikebros.co.jp/catalog/1/1_1/
+機械式リーディングトレーリング,ブレーキ形式（後）,https://www.bikebros.co.jp/catalog/1/1_1/
+DOT 4,ブレーキオイル適合規格,https://www.bikebros.co.jp/catalog/1/1_1/
+テレスコピックフォーク,懸架方式（前）,https://www.bikebros.co.jp/catalog/1/1_1/
+正立フォーク,フロントフォークタイプ,https://www.bikebros.co.jp/catalog/1/1_1/
+スイングアーム式,懸架方式（後）,https://www.bikebros.co.jp/catalog/1/1_1/
+2,ショックアブソーバ本数（後）,https://www.bikebros.co.jp/catalog/1/1_1/
+3.25-18,タイヤ（前）,https://www.bikebros.co.jp/catalog/1/1_1/
+バイアス,タイヤ（前）構造名,https://www.bikebros.co.jp/catalog/1/1_1/
+S,タイヤ（前）速度記号,https://www.bikebros.co.jp/catalog/1/1_1/
+4PR,タイヤ（前）プライレーティング,https://www.bikebros.co.jp/catalog/1/1_1/
+チューブレス,タイヤ（前）タイプ,https://www.bikebros.co.jp/catalog/1/1_1/
+110/90-16,タイヤ（後）,https://www.bikebros.co.jp/catalog/1/1_1/
+バイアス,タイヤ（後）構造名,https://www.bikebros.co.jp/catalog/1/1_1/
+59,タイヤ（後）荷重指数,https://www.bikebros.co.jp/catalog/1/1_1/
+S,タイヤ（後）速度記号,https://www.bikebros.co.jp/catalog/1/1_1/
+チューブレス,タイヤ（後）タイプ,https://www.bikebros.co.jp/catalog/1/1_1/
+1.85,ホイールリム幅（前）,https://www.bikebros.co.jp/catalog/1/1_1/
+2.15,ホイールリム幅（後）,https://www.bikebros.co.jp/catalog/1/1_1/
+1.75,タイヤ標準指定空気圧（乗車定員時・前）,https://www.bikebros.co.jp/catalog/1/1_1/
+2.00,タイヤ標準指定空気圧（乗車定員時・後）,https://www.bikebros.co.jp/catalog/1/1_1/
+45W/45W,ヘッドライト定格（Hi）,https://www.bikebros.co.jp/catalog/1/1_1/
+アナログ,スピードメーター表示形式,https://www.bikebros.co.jp/catalog/1/1_1/
+有,メーター表示：エンジン回転計,https://www.bikebros.co.jp/catalog/1/1_1/
+有,車両装備：キャリア,https://www.bikebros.co.jp/catalog/1/1_1/
+有,車両装備：センタースタンド,https://www.bikebros.co.jp/catalog/1/1_1/
+250T MASTER,タイプグレード名,https://www.bikebros.co.jp/catalog/1/1_2/
+新登場,モデルチェンジ区分,https://www.bikebros.co.jp/catalog/1/1_2/
+MC06,型式,https://www.bikebros.co.jp/catalog/1/1_2/
+1981,発売年,https://www.bikebros.co.jp/catalog/1/1_2/
+11,発売月,https://www.bikebros.co.jp/catalog/1/1_2/
+国内向けモデル,仕向け・仕様,https://www.bikebros.co.jp/catalog/1/1_2/
+2030,全長 (mm),https://www.bikebros.co.jp/catalog/1/1_2/
+810,全幅 (mm),https://www.bikebros.co.jp/catalog/1/1_2/
+1130,全高 (mm),https://www.bikebros.co.jp/catalog/1/1_2/
+1345,ホイールベース (mm),https://www.bikebros.co.jp/catalog/1/1_2/
+165,最低地上高（ｍｍ）,https://www.bikebros.co.jp/catalog/1/1_2/
+730,シート高 (mm),https://www.bikebros.co.jp/catalog/1/1_2/
+130,乾燥重量 (kg),https://www.bikebros.co.jp/catalog/1/1_2/
+141,車両重量 (kg),https://www.bikebros.co.jp/catalog/1/1_2/
+2.1,最小回転半径（ｍ）,https://www.bikebros.co.jp/catalog/1/1_2/
+2,乗車定員（名）,https://www.bikebros.co.jp/catalog/1/1_2/
+58.0,燃料消費率（1）(km/L),https://www.bikebros.co.jp/catalog/1/1_2/
+50km/h走行時,測定基準（1）,https://www.bikebros.co.jp/catalog/1/1_2/
+MC06E,原動機型式,https://www.bikebros.co.jp/catalog/1/1_2/
+4ストローク,原動機種類,https://www.bikebros.co.jp/catalog/1/1_2/
+2,気筒数,https://www.bikebros.co.jp/catalog/1/1_2/
+並列（直列）,シリンダ配列,https://www.bikebros.co.jp/catalog/1/1_2/
+空冷,冷却方式,https://www.bikebros.co.jp/catalog/1/1_2/
+233,排気量 (cc),https://www.bikebros.co.jp/catalog/1/1_2/
+OHC（SOHC）,カム・バルブ駆動方式,https://www.bikebros.co.jp/catalog/1/1_2/
+2,気筒あたりバルブ数,https://www.bikebros.co.jp/catalog/1/1_2/
+53,内径（シリンダーボア）(mm),https://www.bikebros.co.jp/catalog/1/1_2/
+53,行程（ピストンストローク）(mm),https://www.bikebros.co.jp/catalog/1/1_2/
+9.4,圧縮比（:1）,https://www.bikebros.co.jp/catalog/1/1_2/
+21,最高出力（PS）,https://www.bikebros.co.jp/catalog/1/1_2/
+8500,最高出力回転数（rpm）,https://www.bikebros.co.jp/catalog/1/1_2/
+2,最大トルク（kgf･m）,https://www.bikebros.co.jp/catalog/1/1_2/
+4000,最大トルク回転数（rpm）,https://www.bikebros.co.jp/catalog/1/1_2/
+キャブレター,燃料供給方式,https://www.bikebros.co.jp/catalog/1/1_2/
+VB16,燃料供給装置形式,https://www.bikebros.co.jp/catalog/1/1_2/
+12,燃料タンク容量 (L),https://www.bikebros.co.jp/catalog/1/1_2/
+1.5,燃料タンク・リザーブ容量 (L),https://www.bikebros.co.jp/catalog/1/1_2/
+レギュラーガソリン,燃料（種類）,https://www.bikebros.co.jp/catalog/1/1_2/
+696.0,満タン時航続距離（概算・参考値）,https://www.bikebros.co.jp/catalog/1/1_2/
+セルフスターター式,エンジン始動方式,https://www.bikebros.co.jp/catalog/1/1_2/
+C.D.I.式,点火装置,https://www.bikebros.co.jp/catalog/1/1_2/
+C7HSA,点火プラグ標準搭載・型式,https://www.bikebros.co.jp/catalog/1/1_2/
+2,点火プラグ必要本数・合計,https://www.bikebros.co.jp/catalog/1/1_2/
+YB9-B,搭載バッテリー・型式,https://www.bikebros.co.jp/catalog/1/1_2/
+12V-9Ah,バッテリー容量,https://www.bikebros.co.jp/catalog/1/1_2/
+ウェットサンプ式,エンジン潤滑方式,https://www.bikebros.co.jp/catalog/1/1_2/
+1.8,エンジンオイル容量※全容量 (L),https://www.bikebros.co.jp/catalog/1/1_2/
+1.6,エンジンオイル量（オイル交換時） (L),https://www.bikebros.co.jp/catalog/1/1_2/
+10W-30,推奨エンジンオイル（SAE粘度）,https://www.bikebros.co.jp/catalog/1/1_2/
+湿式・多板,クラッチ形式,https://www.bikebros.co.jp/catalog/1/1_2/
+リターン式・5段変速,変速機形式,https://www.bikebros.co.jp/catalog/1/1_2/
+フットシフト,変速機・操作方式,https://www.bikebros.co.jp/catalog/1/1_2/
+3.632,1次減速比,https://www.bikebros.co.jp/catalog/1/1_2/
+2.142,2次減速比,https://www.bikebros.co.jp/catalog/1/1_2/
+1速 2.845/2速 1.776/3速 1.332/4速 1.082/5速 0.912,変速比,https://www.bikebros.co.jp/catalog/1/1_2/
+チェーン,動力伝達方式,https://www.bikebros.co.jp/catalog/1/1_2/
+ダイヤモンド,フレーム型式,https://www.bikebros.co.jp/catalog/1/1_2/
+29°20′,キャスター角,https://www.bikebros.co.jp/catalog/1/1_2/
+112,トレール量 (mm),https://www.bikebros.co.jp/catalog/1/1_2/
+機械式リーディングトレーリング,ブレーキ形式（前）,https://www.bikebros.co.jp/catalog/1/1_2/
+機械式リーディングトレーリング,ブレーキ形式（後）,https://www.bikebros.co.jp/catalog/1/1_2/
+テレスコピックフォーク,懸架方式（前）,https://www.bikebros.co.jp/catalog/1/1_2/
+正立フォーク,フロントフォークタイプ,https://www.bikebros.co.jp/catalog/1/1_2/
+スイングアーム式,懸架方式（後）,https://www.bikebros.co.jp/catalog/1/1_2/
+2,ショックアブソーバ本数（後）,https://www.bikebros.co.jp/catalog/1/1_2/
+3.25-18,タイヤ（前）,https://www.bikebros.co.jp/catalog/1/1_2/
+バイアス,タイヤ（前）構造名,https://www.bikebros.co.jp/catalog/1/1_2/
+S,タイヤ（前）速度記号,https://www.bikebros.co.jp/catalog/1/1_2/
+4PR,タイヤ（前）プライレーティング,https://www.bikebros.co.jp/catalog/1/1_2/
+チューブタイヤ,タイヤ（前）タイプ,https://www.bikebros.co.jp/catalog/1/1_2/
+110/90-16,タイヤ（後）,https://www.bikebros.co.jp/catalog/1/1_2/
+バイアス,タイヤ（後）構造名,https://www.bikebros.co.jp/catalog/1/1_2/
+59,タイヤ（後）荷重指数,https://www.bikebros.co.jp/catalog/1/1_2/
+S,タイヤ（後）速度記号,https://www.bikebros.co.jp/catalog/1/1_2/
+チューブタイヤ,タイヤ（後）タイプ,https://www.bikebros.co.jp/catalog/1/1_2/
+1.85,ホイールリム幅（前）,https://www.bikebros.co.jp/catalog/1/1_2/
+2.15,ホイールリム幅（後）,https://www.bikebros.co.jp/catalog/1/1_2/
+1.75,タイヤ標準指定空気圧（乗車定員時・前）,https://www.bikebros.co.jp/catalog/1/1_2/
+2.00,タイヤ標準指定空気圧（乗車定員時・後）,https://www.bikebros.co.jp/catalog/1/1_2/
+アナログ,スピードメーター表示形式,https://www.bikebros.co.jp/catalog/1/1_2/
+有,車両装備：センタースタンド,https://www.bikebros.co.jp/catalog/1/1_2/
+250T MASTER S･D,タイプグレード名,https://www.bikebros.co.jp/catalog/1/1_3/
+新登場,モデルチェンジ区分,https://www.bikebros.co.jp/catalog/1/1_3/
+MC06,型式,https://www.bikebros.co.jp/catalog/1/1_3/
+1982,発売年,https://www.bikebros.co.jp/catalog/1/1_3/
+9,発売月,https://www.bikebros.co.jp/catalog/1/1_3/
+国内向けモデル,仕向け・仕様,https://www.bikebros.co.jp/catalog/1/1_3/
+2055,全長 (mm),https://www.bikebros.co.jp/catalog/1/1_3/
+810,全幅 (mm),https://www.bikebros.co.jp/catalog/1/1_3/
+1130,全高 (mm),https://www.bikebros.co.jp/catalog/1/1_3/
+1345,ホイールベース (mm),https://www.bikebros.co.jp/catalog/1/1_3/
+165,最低地上高（ｍｍ）,https://www.bikebros.co.jp/catalog/1/1_3/
+730,シート高 (mm),https://www.bikebros.co.jp/catalog/1/1_3/
+130,乾燥重量 (kg),https://www.bikebros.co.jp/catalog/1/1_3/
+141,車両重量 (kg),https://www.bikebros.co.jp/catalog/1/1_3/
+2.1,最小回転半径（ｍ）,https://www.bikebros.co.jp/catalog/1/1_3/
+2,乗車定員（名）,https://www.bikebros.co.jp/catalog/1/1_3/
+58.0,燃料消費率（1）(km/L),https://www.bikebros.co.jp/catalog/1/1_3/
+50km/h走行時,測定基準（1）,https://www.bikebros.co.jp/catalog/1/1_3/
+MC06E,原動機型式,https://www.bikebros.co.jp/catalog/1/1_3/
+4ストローク,原動機種類,https://www.bikebros.co.jp/catalog/1/1_3/
+2,気筒数,https://www.bikebros.co.jp/catalog/1/1_3/
+並列（直列）,シリンダ配列,https://www.bikebros.co.jp/catalog/1/1_3/
+空冷,冷却方式,https://www.bikebros.co.jp/catalog/1/1_3/
+233,排気量 (cc),https://www.bikebros.co.jp/catalog/1/1_3/
+OHC（SOHC）,カム・バルブ駆動方式,https://www.bikebros.co.jp/catalog/1/1_3/
+2,気筒あたりバルブ数,https://www.bikebros.co.jp/catalog/1/1_3/
+53,内径（シリンダーボア）(mm),https://www.bikebros.co.jp/catalog/1/1_3/
+53,行程（ピストンストローク）(mm),https://www.bikebros.co.jp/catalog/1/1_3/
+9.4,圧縮比（:1）,https://www.bikebros.co.jp/catalog/1/1_3/
+21,最高出力（PS）,https://www.bikebros.co.jp/catalog/1/1_3/
+8500,最高出力回転数（rpm）,https://www.bikebros.co.jp/catalog/1/1_3/
+2,最大トルク（kgf･m）,https://www.bikebros.co.jp/catalog/1/1_3/
+4000,最大トルク回転数（rpm）,https://www.bikebros.co.jp/catalog/1/1_3/
+キャブレター,燃料供給方式,https://www.bikebros.co.jp/catalog/1/1_3/
+VB16,燃料供給装置形式,https://www.bikebros.co.jp/catalog/1/1_3/
+12,燃料タンク容量 (L),https://www.bikebros.co.jp/catalog/1/1_3/
+1.5,燃料タンク・リザーブ容量 (L),https://www.bikebros.co.jp/catalog/1/1_3/
+レギュラーガソリン,燃料（種類）,https://www.bikebros.co.jp/catalog/1/1_3/
+696.0,満タン時航続距離（概算・参考値）,https://www.bikebros.co.jp/catalog/1/1_3/
+セルフスターター式,エンジン始動方式,https://www.bikebros.co.jp/catalog/1/1_3/
+C.D.I.式,点火装置,https://www.bikebros.co.jp/catalog/1/1_3/
+C7HSA,点火プラグ標準搭載・型式,https://www.bikebros.co.jp/catalog/1/1_3/
+2,点火プラグ必要本数・合計,https://www.bikebros.co.jp/catalog/1/1_3/
+YB9-B,搭載バッテリー・型式,https://www.bikebros.co.jp/catalog/1/1_3/
+12V-9Ah,バッテリー容量,https://www.bikebros.co.jp/catalog/1/1_3/
+ウェットサンプ式,エンジン潤滑方式,https://www.bikebros.co.jp/catalog/1/1_3/
+1.8,エンジンオイル容量※全容量 (L),https://www.bikebros.co.jp/catalog/1/1_3/
+1.6,エンジンオイル量（オイル交換時） (L),https://www.bikebros.co.jp/catalog/1/1_3/
+10W-30,推奨エンジンオイル（SAE粘度）,https://www.bikebros.co.jp/catalog/1/1_3/
+湿式・多板,クラッチ形式,https://www.bikebros.co.jp/catalog/1/1_3/
+リターン式・5段変速,変速機形式,https://www.bikebros.co.jp/catalog/1/1_3/
+フットシフト,変速機・操作方式,https://www.bikebros.co.jp/catalog/1/1_3/
+3.632,1次減速比,https://www.bikebros.co.jp/catalog/1/1_3/
+2.300,2次減速比,https://www.bikebros.co.jp/catalog/1/1_3/
+1速 2.845/2速 1.776/3速 1.332/4速 1.082/5速 0.912,変速比,https://www.bikebros.co.jp/catalog/1/1_3/
+ベルト,動力伝達方式,https://www.bikebros.co.jp/catalog/1/1_3/
+ダイヤモンド,フレーム型式,https://www.bikebros.co.jp/catalog/1/1_3/
+29°20′,キャスター角,https://www.bikebros.co.jp/catalog/1/1_3/
+112,トレール量 (mm),https://www.bikebros.co.jp/catalog/1/1_3/
+機械式リーディングトレーリング,ブレーキ形式（前）,https://www.bikebros.co.jp/catalog/1/1_3/
+機械式リーディングトレーリング,ブレーキ形式（後）,https://www.bikebros.co.jp/catalog/1/1_3/
+テレスコピックフォーク,懸架方式（前）,https://www.bikebros.co.jp/catalog/1/1_3/
+正立フォーク,フロントフォークタイプ,https://www.bikebros.co.jp/catalog/1/1_3/
+スイングアーム式,懸架方式（後）,https://www.bikebros.co.jp/catalog/1/1_3/
+2,ショックアブソーバ本数（後）,https://www.bikebros.co.jp/catalog/1/1_3/
+3.25-18,タイヤ（前）,https://www.bikebros.co.jp/catalog/1/1_3/
+バイアス,タイヤ（前）構造名,https://www.bikebros.co.jp/catalog/1/1_3/
+S,タイヤ（前）速度記号,https://www.bikebros.co.jp/catalog/1/1_3/
+4PR,タイヤ（前）プライレーティング,https://www.bikebros.co.jp/catalog/1/1_3/
+チューブタイヤ,タイヤ（前）タイプ,https://www.bikebros.co.jp/catalog/1/1_3/
+110/90-16,タイヤ（後）,https://www.bikebros.co.jp/catalog/1/1_3/
+バイアス,タイヤ（後）構造名,https://www.bikebros.co.jp/catalog/1/1_3/
+59,タイヤ（後）荷重指数,https://www.bikebros.co.jp/catalog/1/1_3/
+S,タイヤ（後）速度記号,https://www.bikebros.co.jp/catalog/1/1_3/
+チューブタイヤ,タイヤ（後）タイプ,https://www.bikebros.co.jp/catalog/1/1_3/
+1.85,ホイールリム幅（前）,https://www.bikebros.co.jp/catalog/1/1_3/
+2.15,ホイールリム幅（後）,https://www.bikebros.co.jp/catalog/1/1_3/
+1.75,タイヤ標準指定空気圧（乗車定員時・前）,https://www.bikebros.co.jp/catalog/1/1_3/
+2.00,タイヤ標準指定空気圧（乗車定員時・後）,https://www.bikebros.co.jp/catalog/1/1_3/
+アナログ,スピードメーター表示形式,https://www.bikebros.co.jp/catalog/1/1_3/
+有,車両装備：キャリア,https://www.bikebros.co.jp/catalog/1/1_3/
+有,車両装備：センタースタンド,https://www.bikebros.co.jp/catalog/1/1_3/
+ATC125M,タイプグレード名,https://www.bikebros.co.jp/catalog/1/2_1/
+新登場,モデルチェンジ区分,https://www.bikebros.co.jp/catalog/1/2_1/
+1985,発売年,https://www.bikebros.co.jp/catalog/1/2_1/
+10,発売月,https://www.bikebros.co.jp/catalog/1/2_1/
+国内向けモデル,仕向け・仕様,https://www.bikebros.co.jp/catalog/1/2_1/
+1660,全長 (mm),https://www.bikebros.co.jp/catalog/1/2_1/
+990,全幅 (mm),https://www.bikebros.co.jp/catalog/1/2_1/
+965,全高 (mm),https://www.bikebros.co.jp/catalog/1/2_1/
+1085,ホイールベース (mm),https://www.bikebros.co.jp/catalog/1/2_1/
+115,最低地上高（ｍｍ）,https://www.bikebros.co.jp/catalog/1/2_1/
+125,乾燥重量 (kg),https://www.bikebros.co.jp/catalog/1/2_1/
+4ストローク,原動機種類,https://www.bikebros.co.jp/catalog/1/2_1/
+1,気筒数,https://www.bikebros.co.jp/catalog/1/2_1/
+単気筒,シリンダ配列,https://www.bikebros.co.jp/catalog/1/2_1/
+空冷,冷却方式,https://www.bikebros.co.jp/catalog/1/2_1/
+124,排気量 (cc),https://www.bikebros.co.jp/catalog/1/2_1/
+OHC（SOHC）,カム・バルブ駆動方式,https://www.bikebros.co.jp/catalog/1/2_1/
+54,内径（シリンダーボア）(mm),https://www.bikebros.co.jp/catalog/1/2_1/
+54.5,行程（ピストンストローク）(mm),https://www.bikebros.co.jp/catalog/1/2_1/
+9,圧縮比（:1）,https://www.bikebros.co.jp/catalog/1/2_1/
+9,最高出力（PS）,https://www.bikebros.co.jp/catalog/1/2_1/
+7500,最高出力回転数（rpm）,https://www.bikebros.co.jp/catalog/1/2_1/
+0.93,最大トルク（kgf･m）,https://www.bikebros.co.jp/catalog/1/2_1/
+5500,最大トルク回転数（rpm）,https://www.bikebros.co.jp/catalog/1/2_1/
+キャブレター,燃料供給方式,https://www.bikebros.co.jp/catalog/1/2_1/
+8.9,燃料タンク容量 (L),https://www.bikebros.co.jp/catalog/1/2_1/
+セルフスターター式,エンジン始動方式,https://www.bikebros.co.jp/catalog/1/2_1/
+C.D.I.式,点火装置,https://www.bikebros.co.jp/catalog/1/2_1/
+自動遠心,クラッチ形式,https://www.bikebros.co.jp/catalog/1/2_1/
+パイプフレーム,フレーム型式,https://www.bikebros.co.jp/catalog/1/2_1/
+21°,キャスター角,https://www.bikebros.co.jp/catalog/1/2_1/
+16,トレール量 (mm),https://www.bikebros.co.jp/catalog/1/2_1/
+機械式リーディングトレーリング,ブレーキ形式（前）,https://www.bikebros.co.jp/catalog/1/2_1/
+機械式リーディングトレーリング,ブレーキ形式（後）,https://www.bikebros.co.jp/catalog/1/2_1/

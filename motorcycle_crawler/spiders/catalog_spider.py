@@ -12,7 +12,7 @@ class CatalogSpiderSpider(scrapy.Spider):
         td = response.css('div#bike_model_info td::text').extract()
         bike_model = response.css('a.bike_model::attr(data-bike_model_id)').extract()
         print(bike_model)
-        url = 'https://api.burl=ikebros.co.jp/v1/bike//bike_model_detail.jsonp?bike_model_id='+bike_model[0]
+        url = 'https://api.bikebros.co.jp/v1/bike//bike_model_detail.jsonp?bike_model_id='+bike_model[0]
         user_agent = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36"
         headers = {
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9", 
